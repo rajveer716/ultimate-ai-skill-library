@@ -1,15 +1,15 @@
 ---
-name: critical-thinking
-description: Evaluate arguments, evidence, assumptions, causal claims, and competing explanations before reaching conclusions.
+name: stakeholder-management
+description: Map stakeholder interests, influence, expectations, engagement, and communication needs.
 ---
 
-# Critical Thinking
+# Stakeholder Management
 
 ## Purpose
-Evaluate arguments, evidence, assumptions, causal claims, and competing explanations before reaching conclusions.
+Map stakeholder interests, influence, expectations, engagement, and communication needs.
 
 ## When to use
-Use this skill when the user asks for work directly related to critical thinking, wants a repeatable workflow, or needs a structured deliverable in this area. Do not activate it for unrelated tasks.
+Use this skill when the user asks for work directly related to stakeholder management, wants a repeatable workflow, or needs a structured deliverable in this area. Do not activate it for unrelated tasks.
 
 ## Working method
 1. **Frame the task.** Restate the desired outcome, audience, context, constraints, deadline, and deliverable. Ask only for missing information that materially changes the result; otherwise state reasonable assumptions.
@@ -20,7 +20,7 @@ Use this skill when the user asks for work directly related to critical thinking
 6. **Deliver clearly.** Present the finished output first, followed by key assumptions, validation performed, limitations, and practical next steps.
 
 ## Domain operating rules
-Start by clarifying the decision or question. Separate facts, assumptions, constraints, values, and unknowns. Use at least two plausible interpretations when ambiguity matters. Show the reasoning structure, not hidden private chain-of-thought; provide concise rationale, evidence, and decision criteria.
+Define outcomes, scope, roles, dependencies, schedule, budget assumptions, risks, and decision rights. Track actions with owners and dates. Plan contingencies and communications. Close with a retrospective and reusable lessons.
 
 ## Output expectations
 Adapt the format to the user's request. When useful, include:
@@ -39,6 +39,6 @@ Adapt the format to the user's request. When useful, include:
 - Do not claim to have browsed, executed, tested, interviewed, measured, or audited unless that work actually occurred.
 
 ## Example requests
-- "Help me apply critical thinking to this project and give me a practical result."
-- "Review this draft using a structured critical thinking workflow."
-- "Create a reusable template and checklist for critical thinking."
+- "Help me apply stakeholder management to this project and give me a practical result."
+- "Review this draft using a structured stakeholder management workflow."
+- "Create a reusable template and checklist for stakeholder management."
